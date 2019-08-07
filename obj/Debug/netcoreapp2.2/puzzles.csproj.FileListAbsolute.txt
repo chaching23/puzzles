@@ -1,0 +1,11 @@
+/Users/chachi/Desktop/C#/puzzles/bin/Debug/netcoreapp2.2/puzzles.deps.json
+/Users/chachi/Desktop/C#/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.json
+/Users/chachi/Desktop/C#/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.dev.json
+/Users/chachi/Desktop/C#/puzzles/bin/Debug/netcoreapp2.2/puzzles.dll
+/Users/chachi/Desktop/C#/puzzles/bin/Debug/netcoreapp2.2/puzzles.pdb
+/Users/chachi/Desktop/C#/puzzles/obj/Debug/netcoreapp2.2/puzzles.csprojAssemblyReference.cache
+/Users/chachi/Desktop/C#/puzzles/obj/Debug/netcoreapp2.2/puzzles.csproj.CoreCompileInputs.cache
+/Users/chachi/Desktop/C#/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfoInputs.cache
+/Users/chachi/Desktop/C#/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfo.cs
+/Users/chachi/Desktop/C#/puzzles/obj/Debug/netcoreapp2.2/puzzles.dll
+/Users/chachi/Desktop/C#/puzzles/obj/Debug/netcoreapp2.2/puzzles.pdb
